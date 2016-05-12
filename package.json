@@ -1,0 +1,17 @@
+{
+  "name": "node-api-rest",
+  "version": "1.0.0",
+  "description": "Node API RESTful",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Deiber Chacón <deiberchacon@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "method-override": "^2.3.5",
+    "mongoose": "^4.4.16"
+  }
+}
